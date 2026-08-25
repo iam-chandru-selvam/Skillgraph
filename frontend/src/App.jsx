@@ -514,7 +514,7 @@ function App() {
 
       {/* Footer */}
       <footer>
-        <span>SkillGraph</span>
+        <span>SkillGraph developed by Chandru S</span>
         <span>Powered by CognoDB + Spring Boot + React</span>
       </footer>
 
