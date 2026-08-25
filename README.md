@@ -693,20 +693,35 @@ frontend/dist/
 
 Screenshots can be added here after preparing the final documentation assets.
 
-Recommended screenshots:
 
 1. SkillGraph dashboard
+
+<img width="1349" height="756" alt="image" src="https://github.com/user-attachments/assets/1af2a7b3-da51-4256-a61c-6a30a25d9221" />
+
+
 2. Skill Explorer
+
+<img width="1352" height="767" alt="image" src="https://github.com/user-attachments/assets/3ad8adad-7ffe-4c50-aec8-7ad5791bb8e4" />
+
+<img width="1354" height="767" alt="image" src="https://github.com/user-attachments/assets/33ad27f3-07b5-43ef-91d4-02e4d438c25b" />
+
 3. Graph Explorer
+
+<img width="1343" height="767" alt="image" src="https://github.com/user-attachments/assets/b46f889b-987f-43b8-9675-5922a5c3e1a1" />
+
 4. Node Details
+
+<img width="1351" height="767" alt="image" src="https://github.com/user-attachments/assets/a2b3343d-1291-44a6-96d0-f58cd34ce884" />
+
 5. Developer Matching
+
+<img width="1351" height="767" alt="image" src="https://github.com/user-attachments/assets/a1c0d3fb-1e2f-4170-845e-42bb6910af5d" />
+<img width="1353" height="767" alt="image" src="https://github.com/user-attachments/assets/63dbf4a4-fe03-45df-94d9-8c197a5b9cd5" />
+
 6. Search Results
 
-Example:
+<img width="1352" height="767" alt="image" src="https://github.com/user-attachments/assets/f8b1b8ee-9c4a-488c-8393-c4164774a3d4" />
 
-```markdown
-![SkillGraph Dashboard](docs/screenshots/dashboard.png)
-```
 
 ---
 
@@ -714,24 +729,15 @@ Example:
 
 A short screen recording can demonstrate the complete application flow.
 
-Suggested demonstration:
-
-1. Start the application
-2. Open SkillGraph
-3. Select a skill
-4. View connected developers
-5. View related skills
-6. View job roles
-7. Open Graph Explorer
-8. Select a graph node
-9. View node details
-10. Search for another skill
-11. Demonstrate developer/job-role matching
 
 Demo video:
 
 ```text
-ADD VIDEO LINK HERE
+
+
+https://github.com/user-attachments/assets/3a571285-660f-46da-b541-be6d1a68fb72
+
+
 ```
 
 ---
