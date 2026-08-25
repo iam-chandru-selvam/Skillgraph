@@ -760,32 +760,6 @@ ADD DEPLOYED APPLICATION URL HERE
 
 ---
 
-# 📌 Project Requirements Checklist
-
-| Requirement                   | Status |
-| ----------------------------- | ------ |
-| CognoDB graph database        | ✅      |
-| Neo4j Java Driver             | ✅      |
-| Graph data model              | ✅      |
-| Typed relationships           | ✅      |
-| Seed data                     | ✅      |
-| Schema script                 | ✅      |
-| Multi-hop graph traversal     | ✅      |
-| Relationship-heavy queries    | ✅      |
-| Parameterized queries         | ✅      |
-| Spring Boot backend           | ✅      |
-| React frontend                | ✅      |
-| Graph visualization           | ✅      |
-| Search functionality          | ✅      |
-| Developer matching            | ✅      |
-| Node details                  | ✅      |
-| Loading/error handling        | ✅      |
-| Environment-based credentials | ✅      |
-| Git repository                | ✅      |
-| README documentation          | ✅      |
-| Screenshots                   | 🔄     |
-| Hosted demo                   | 🔄     |
-| Demo video                    | 🔄     |
 
 ---
 
