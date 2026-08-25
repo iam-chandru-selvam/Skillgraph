@@ -1,12 +1,3 @@
-Absolutely bro. Here is the **entire `README.md` as one single copyable Markdown block**.
-
-Copy everything inside the block and paste it directly into:
-
-```text
-Skillgraph/README.md
-```
-
-````markdown
 # SkillGraph
 
 A graph-powered talent explorer built with **CognoDB**, Spring Boot, and React.
@@ -46,7 +37,7 @@ Developer
     | RELATED_TO
     v
 Related Skill
-````
+```
 
 A developer can have many skills, a skill can be related to many other skills, and job roles can require multiple skills.
 
@@ -77,12 +68,12 @@ This makes relationship-heavy queries natural to express.
 
 ### Benefits of the graph model
 
-* Natural representation of many-to-many relationships
-* Multi-hop relationship traversal
-* Easy discovery of related entities
-* Flexible graph exploration
-* Relationship-focused queries
-* Developer-to-skill-to-job-role matching
+- Natural representation of many-to-many relationships
+- Multi-hop relationship traversal
+- Easy discovery of related entities
+- Flexible graph exploration
+- Relationship-focused queries
+- Developer-to-skill-to-job-role matching
 
 ---
 
@@ -351,32 +342,32 @@ The dataset is intentionally kept small enough for development and demonstration
 
 ## Backend
 
-* Java
-* Spring Boot
-* Spring Web
-* Spring Validation
-* Maven
-* Neo4j Java Driver
-* REST APIs
+- Java
+- Spring Boot
+- Spring Web
+- Spring Validation
+- Maven
+- Neo4j Java Driver
+- REST APIs
 
 ## Database
 
-* CognoDB
-* openCypher
-* Bolt Protocol
+- CognoDB
+- openCypher
+- Bolt Protocol
 
 ## Frontend
 
-* React
-* Vite
-* JavaScript
-* CSS
+- React
+- Vite
+- JavaScript
+- CSS
 
 ## Development Tools
 
-* IntelliJ IDEA
-* Git
-* GitHub
+- IntelliJ IDEA
+- Git
+- GitHub
 
 ---
 
@@ -553,12 +544,12 @@ http://localhost:5173
 
 Users can select skills such as:
 
-* Java
-* Spring Boot
-* React
-* Python
-* Docker
-* SQL
+- Java
+- Spring Boot
+- React
+- Python
+- Docker
+- SQL
 
 The application displays connected developers, related skills, and job roles.
 
@@ -570,12 +561,12 @@ The graph explorer visually represents connected nodes and relationships.
 
 Users can:
 
-* Explore graph connections
-* Select individual nodes
-* View node details
-* Discover connected developers
-* Discover related skills
-* Discover job roles
+- Explore graph connections
+- Select individual nodes
+- View node details
+- Discover connected developers
+- Discover related skills
+- Discover job roles
 
 ---
 
@@ -631,10 +622,10 @@ GET /api/skills?name=Java
 
 The response contains information about:
 
-* Skill
-* Developers
-* Related skills
-* Job roles
+- Skill
+- Developers
+- Related skills
+- Job roles
 
 ---
 
@@ -804,9 +795,7 @@ ADD DEPLOYED APPLICATION URL HERE
 
 Computer Science & Engineering
 
-GitHub:
-
-[https://github.com/iam-chandru-selvam/Skillgraph](https://github.com/iam-chandru-selvam/Skillgraph)
+GitHub: [https://github.com/iam-chandru-selvam/Skillgraph](https://github.com/iam-chandru-selvam/Skillgraph)
 
 ---
 
@@ -826,6 +815,3 @@ A graph connects all of them.
 ```
 
 That graph becomes the foundation for exploring talent and discovering meaningful connections.
-
-```
-```
