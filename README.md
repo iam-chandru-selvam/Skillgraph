@@ -771,18 +771,13 @@ https://skillgraph-chandru.up.railway.app
 
 ---
 
----
-
-
----
-
 # 👨‍💻 Author
 
-**Dru**
+**Chandru S**
 
-Computer Science & Engineering
+Computer Science & Engineering Graduate
 
-GitHub: [https://github.com/iam-chandru-selvam/Skillgraph](https://github.com/iam-chandru-selvam/Skillgraph)
+GitHub: [https://github.com/iam-chandru-selvam](https://github.com/iam-chandru-selvam)
 
 ---
 
