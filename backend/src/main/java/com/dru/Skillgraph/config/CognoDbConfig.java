@@ -1,4 +1,4 @@
-package com.dru.skillgraph.config;
+package com.dru.Skillgraph.config;
 
 import org.neo4j.driver.AuthTokens;
 import org.neo4j.driver.Driver;
