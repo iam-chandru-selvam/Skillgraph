@@ -625,9 +625,9 @@ git push origin feature/new-feature
 
 # 👨‍💻 Author
 
-**Dru (Chandru Selvam)**
+**Chandru (Chandru Selvam)**
 
-Computer Science & Engineering
+Computer Science & Engineering Graduate
 
 GitHub: [https://github.com/iam-chandru-selvam](https://github.com/iam-chandru-selvam)
 
