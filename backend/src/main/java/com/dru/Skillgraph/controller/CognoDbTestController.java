@@ -13,8 +13,9 @@ public class CognoDbTestController {
         this.testService = testService;
     }
 
-    @GetMapping("/api/test/cognodb")
+    @GetMapping("/api/cognodb/test")
     public String testCognoDb() {
+
         return testService.testConnection();
     }
 }
