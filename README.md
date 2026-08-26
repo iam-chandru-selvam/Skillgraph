@@ -1,3 +1,4 @@
+
 # SkillGraph
 
 A graph-powered talent explorer built with **CognoDB**, Spring Boot, and React.
@@ -760,9 +761,15 @@ Do not hard-code credentials into the source code.
 
 Hosted application:
 
-```text
-ADD DEPLOYED APPLICATION URL HERE
-```
+## 🚀 Live Application
+
+**Frontend:**
+https://skillgraph-silk.vercel.app
+
+**Backend API:**
+https://skillgraph-chandru.up.railway.app
+
+---
 
 ---
 
