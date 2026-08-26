@@ -13,12 +13,16 @@ public class GlobalExceptionHandler {
     @ExceptionHandler(Exception.class)
     public ResponseEntity<Map<String, Object>> handleException(Exception ex) {
 
+        ex.printStackTrace();
+
         return ResponseEntity
                 .status(HttpStatus.SERVICE_UNAVAILABLE)
                 .body(Map.of(
                         "error", "DATABASE_UNAVAILABLE",
                         "message", "Unable to connect to the graph database.",
-                        "details", "Please try again in a moment."
+                        "details", ex.getMessage() != null
+                                ? ex.getMessage()
+                                : "Unknown database error."
                 ));
     }
 }
