@@ -513,14 +513,11 @@ function App() {
       </main>
 
       {/* Footer */}
-      <footer>
-<<<<<<< HEAD
-        <span>SkillGraph developed by Chandru S</span>
-=======
-        <span>SkillGraph Developed by Chandru S</span>
->>>>>>> 5d51849 (Merge remote main)
-        <span>Powered by CognoDB + Spring Boot + React</span>
-      </footer>
+    <footer>
+      <span>SkillGraph Developed by Chandru S</span>
+      <span>Powered by CognoDB + Spring Boot + React</span>
+    </footer>
+
 
       {showGraph && selectedSkill && (
         <GraphExplorer
