@@ -7,6 +7,22 @@ SkillGraph helps users explore relationships between developers, skills, related
 
 ---
 
+## Live Demo
+
+**Application:**  
+https://skillgraph-silk.vercel.app/
+
+**Backend API:**  
+https://skillgraph-chandru.up.railway.app
+
+**GitHub:**  
+https://github.com/iam-chandru-selvam/Skillgraph
+
+**Demo Video:**  
+https://github.com/user-attachments/assets/3a571285-660f-46da-b541-be6d1a68fb72
+
+---
+
 ## 🚀 Project Overview
 
 SkillGraph is a graph database application designed to answer questions such as:
@@ -117,16 +133,12 @@ This makes relationship-heavy queries natural to express.
 
 ## Node Types
 
-SkillGraph uses the following graph entities:
+| Node | Purpose |
+|---|---|
+| `Developer` | Represents a developer/talent |
+| `Skill` | Represents a technical skill |
+| `JobRole` | Represents a job role |
 
-| Node         | Purpose                       |
-| ------------ | ----------------------------- |
-| `Developer`  | Represents a developer/talent |
-| `Skill`      | Represents a technical skill  |
-| `JobRole`    | Represents a job role         |
-| `Company`    | Represents a company          |
-| `Project`    | Represents a project          |
-| `Technology` | Represents a technology       |
 
 ## Relationships
 
@@ -486,7 +498,7 @@ cd Skillgraph
 Set:
 
 ```text
-COGNODB_URI=bolt+s://<your-instance>.databases.cognodb.com
+COGNODB_URI=bolt+s://<instance-id>.databases.cognodb.cloud
 COGNODB_USERNAME=cognodb
 COGNODB_PASSWORD=<your-password>
 ```
@@ -633,7 +645,7 @@ The response contains information about:
 ## Graph Explorer
 
 ```text
-GET /api/graph?skill=Java
+GET /api/graph?name=Java
 ```
 
 The endpoint returns graph nodes and relationships that can be visualized by the React frontend.
@@ -692,8 +704,7 @@ frontend/dist/
 
 # 📸 Screenshots
 
-Screenshots can be added here after preparing the final documentation assets.
-
+The following screenshots demonstrate the main SkillGraph application workflows.
 
 1. SkillGraph dashboard
 
